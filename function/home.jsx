@@ -20,4 +20,7 @@ const selectJurneyData = function(data) {
   });
 };
 
-const mapJurneyData = function(data) {};
+// TODO mapping 하는방법
+// const list = data.map(
+//   (info, index) => (<PhoneInfo key={index} info={info}/>)
+// );
